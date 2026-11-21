@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://onktin.github.io/receipt_manager/sitemap.xml
